@@ -1,5 +1,10 @@
-### Hi there 👋
+### ХЭЛОУ ВОРЛД 👋
+## 
 ![Header](https://github.com/CheckPersik/CheckPersik/blob/main/GIF/кот-чавкает.gif)
+
+### Статистика
+![Profile_views](https://komarev.com/ghpvc/?username=CheckPersik&color=green&style=for-the-badge)
+
 
 <!--
 **CheckPersik/CheckPersik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
